@@ -1,4 +1,7 @@
 const colors = ["red", "green", "blue", "yellow"];
+/**
+ * Funcionan los cambios?
+ */
 let colorSequence = [];
 let playerSequence = [];
 let level = 0;
